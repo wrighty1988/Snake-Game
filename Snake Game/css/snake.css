@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    text-shadow: 3px 3px #575555;
+    font-size: 100px;
+    text-shadow: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(241, 14, 26);
+    background-color: rgb(10, 227, 243);
+}
+
+canvas {
+    border: 2px solid rgb(58, 57, 57);
+    padding: 10px;
+    box-shadow: 5px 10px 18px red;
+}
+
+this.stage {
+    color: blue;
+}
